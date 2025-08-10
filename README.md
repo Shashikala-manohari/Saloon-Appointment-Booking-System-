@@ -25,7 +25,7 @@ A modern, scalable salon appointment booking system builting using **Microservic
 - **Redux** for efficient state management.  
 
 
-## 📦 Services Overview  
+## Services Overview  
 
 - **User Service:** User registration, login, and profile management.  
 - **Salon Service:** Salon creation, updating, searching, and owner-specific retrieval.  
