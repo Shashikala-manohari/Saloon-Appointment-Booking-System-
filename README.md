@@ -24,7 +24,6 @@ A modern, scalable salon appointment booking system builting using **Microservic
 - **TailwindCSS** for utility-first CSS styling.  
 - **Redux** for efficient state management.  
 
----
 
 ## 📦 Services Overview  
 
